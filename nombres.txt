@@ -3,6 +3,10 @@ Nombres
 Javier
 Cesar
 Ximena
+
+Sergio
 Hugo
 Roy
+
 Diego "estoy aca en clase"
+Diego esta en la clase
